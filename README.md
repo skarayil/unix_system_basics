@@ -19,6 +19,8 @@
 
 ## 🎯 Projenin Amacı
 
+<img align="right" alt="Algorithm Animation" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29ha2xqaW1jM3k2bHFlZGIyZG1xMXhjYzZncjR3Z3Qxb2RjMW5vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjC8sdurIYfElHXfxR/giphy.gif">
+
 Bu bölüm tamamen **Unix Sistem Programlama** üzerinedir. Yazdığın kodun kara kutu içinde nasıl çalıştığını değil, kodun **işletim sistemiyle nasıl konuştuğunu** öğrenirsin. Her egzersiz bu iletişimin farklı bir boyutunu ele alır:
 
 | Egzersiz | Konu | Kritik Sistem Çağrıları |
